@@ -22,11 +22,6 @@ Este projeto é um sistema básico de gerenciamento de livros desenvolvido em Py
     - Permite remover livros por título ou autor.
     - Confirma a remoção antes de concluir a operação.
 
-### Possíveis Melhorias
 
-- **Persistência de dados:** Implementar a persistência dos dados, salvando os livros em um arquivo ou banco de dados para que estejam disponíveis após o fechamento do programa.
-- **Edição de livros:** Permitir que os usuários editem as informações de um livro já cadastrado.
-- **Pesquisa avançada:** Adicionar opções de pesquisa por múltiplos critérios, como autor e título, ou por intervalo de ano.
-- **Interface gráfica:** Criar uma interface gráfica usando uma biblioteca como Tkinter ou PyQt para melhorar a experiência do usuário.
 
 
